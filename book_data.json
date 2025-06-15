@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "গল্পগুচ্ছ",
+      "icon": "ic_baseline_search",
+      "chapters": [
+        {
+          "title": "ঘাটের কথা",
+          "json_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/shorts/1.json",
+          "cover_image": "gaterkotha"
+        },
+        {
+          "title": "রাজপথের কথা",
+          "json_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/shorts/2.json",
+          "cover_image": "bani"
+        }
+      ]
+    },
+    {
+      "name": "গল্পসল্প",
+      "icon": "ic_baseline_search",
+      "chapters": [
+        {
+          "title": "বিজ্ঞানী",
+          "json_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/shorts1/1.json",
+          "cover_image": "biggan"
+        }
+      ]
+    }
+  ]
+}
